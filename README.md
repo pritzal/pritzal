@@ -5,19 +5,22 @@
 <br>
 Greetings, fellow tech aficionados! 👋 I'm Aayush Chaudhary, a dynamic tech enthusiast on a quest to blend solutions with innovation. 🌐✨
 <br><br>
-##💡 Solution Weaver<br>
+
+## 💡 Solution Weaver
 Navigating the intricate landscape of technology with a solution-oriented mindset, I bring flexibility and organization to every project. From coding marvels to orchestrating seamless experiences, I'm here to craft a tech symphony.
-<br><br>
-##🤖 Tech Arsenal<br>
-In my tech arsenal, diversity is the key:<br>
+
+## 🤖 Tech Arsenal
+In my tech arsenal, diversity is the key:
 - Fluent in the languages of machines, from the elegance of C++ to the versatility of Python, navigating the landscapes of Linux and SQL.
-<br>- Crafting digital experiences with HTML, CSS, and JavaScript, where every line of code weaves the fabric of seamless interaction.
-<br>- From orchestrating databases with MySQL to version control mastery with Git, deploying applications with Docker, embracing DevOps principles, and exploring the realms of MongoDB, my toolkit is a versatile ensemble.
-<br><br>
-##🌐 Cloud Maestro<br>
+- Crafting digital experiences with HTML, CSS, and JavaScript, where every line of code weaves the fabric of seamless interaction.
+- From orchestrating databases with MySQL to version control mastery with Git, deploying applications with Docker, embracing DevOps principles, and exploring the realms of MongoDB, my toolkit is a versatile ensemble.
+
+## 🌐 Cloud Maestro
 In the realm of cloud technology, I've orchestrated a symphony of projects, showcasing my prowess in cloud computing, Python sorcery, and collaboration with cutting-edge technologies like React, Node.js, and Docker. From wielding the magic of Python for data aggregation to sculpting web browsers on AWS clouds, my journey reflects a deep understanding and proficiency in cloud-centric innovations.
-<br><br>## 👨‍💻 Aayush Chaudhary<br>
-**Solution Architect | Cloud Maestro | Tech Artisan**<br>
+
+## 👨‍💻 Aayush Chaudhary
+**Solution Architect | Cloud Maestro | Tech Artisan**
+
 
 
 ## 🌐 Socials:
